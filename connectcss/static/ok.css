@@ -1,0 +1,14 @@
+h1{
+    color:navy
+}
+.content-table{
+    border-collapse: collapse;
+    margin:25px;
+    font: size 0.9em;
+    min-width: 400px;
+}
+.content-table thead tr{
+    background-color:lavender;
+    color:lightgreen;
+    text-align: left;
+}
